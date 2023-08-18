@@ -18,7 +18,7 @@ The editor mode requires some explanation. After making your desired changes, yo
 Additionally, please note that in the editor mode, you should use `CTRL+N` to create new lines instead of the Enter key. This ensures proper formatting of the HTML file.
 
 ## Screenshots
-Screenshots are taken using [EhsanShafi3i](https://github.com/EhsanShafi3i)'s [HTMLFirstTry](https://github.com/EhsanShafi3i/HTMLFirstTry) repository as input files for the script.  
+Screenshots are taken using [EhsanShafi3i](https://github.com/EhsanShafi3i)'s [HTMLFirstTry](https://github.com/EhsanShafi3i/HTMLFirstTry) repository as input file for the script.  
 
 ![](https://github.com/Horam-Zarri/HTML-Editor/blob/main/screenshot1.png)  
 
